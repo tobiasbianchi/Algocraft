@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="libs/ant-jar-1.7.0.jar"/>
+	<classpathentry kind="lib" path="libs/ant-launcher-jar-1.7.0.jar"/>
+	<classpathentry kind="lib" path="libs/antlr-jar-2.7.7.jar"/>
+	<classpathentry kind="lib" path="libs/asm-jar-3.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/asm-tree-jar-3.0.jar"/>
+	<classpathentry kind="lib" path="libs/checkstyle-jar-5.5.jar"/>
+	<classpathentry kind="lib" path="libs/checkstyle-javadoc-5.5.jar"/>
+	<classpathentry kind="lib" path="libs/checkstyle-source-5.5.jar"/>
+	<classpathentry kind="lib" path="libs/cobertura-jar-1.9.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/cobertura-javadoc-1.9.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/cobertura-source-1.9.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils-core-jar-1.8.3.jar"/>
+	<classpathentry kind="lib" path="libs/commons-cli-jar-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-jar-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/google-collections-jar-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/hamcrest-core-jar-1.1.jar"/>
+	<classpathentry kind="lib" path="libs/ivy.jar"/>
+	<classpathentry kind="lib" path="libs/junit-jar-4.10.jar"/>
+	<classpathentry kind="lib" path="libs/junit-javadoc-4.10.jar"/>
+	<classpathentry kind="lib" path="libs/junit-source-4.10.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-jar-1.2.9.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-source-1.2.9.jar"/>
+	<classpathentry kind="lib" path="libs/mockito-all-jar-1.9.0.jar"/>
+	<classpathentry kind="lib" path="libs/mockito-all-javadoc-1.9.0.jar"/>
+	<classpathentry kind="lib" path="libs/mockito-all-source-1.9.0.jar"/>
+	<classpathentry kind="lib" path="libs/oro-jar-2.0.8.jar"/>
+	<classpathentry kind="lib" path="libs/oro-source-2.0.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/tests"/>
+</classpath>
